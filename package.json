@@ -1,0 +1,20 @@
+{
+  "name": "reclaim",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yudrix/Reclaim.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yudrix/Reclaim/issues"
+  },
+  "homepage": "https://github.com/Yudrix/Reclaim#readme",
+  "description": ""
+}
